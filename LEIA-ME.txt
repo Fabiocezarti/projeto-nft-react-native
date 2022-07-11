@@ -1,0 +1,33 @@
+PROJETO "MEU APP"
+
+1-Qual é o problema que o seu APP resolve e se realmente é um problema?
+
+O APP "NFT Prime" é uma espécie de marketplace de leilões NFT onde vários criadores podem leiloar suas obras digitais a um lance mínimo que ache justo. É estabelecido um tempo de duração da oferta do Leilão para que seja feito os lances.
+
+2-Qual a diferença do seu APP para os que existem no mercado?
+
+Uma plataforma altamente selecionada para criar, coletar e negociar NFTs exclusivos. As NFTs são vendidas diretamente pelos principais criadores e é possível dar lances em leilões ​​digitais raros. É possível acompanhar em tempo real se o lance já foi superado por outra pessoa. Os vencedores vão receber os NFTs na moeda digital, pela carteira virtual MetaMask.
+
+3-Quem são os personas?
+
+Toda pessoa que tenha interesse em tecnologia de contrato blockchain para criar uma representação do conteúdo original que não pode ser plagiado sem perder seu certificado de originalidade. Ou seja, o NFT garante a posse de um bem exclusivo, que nenhuma outra pessoa tem.
+
+4-Defina os requisitos.
+
+Requisitos Funcionais: 
+
+
+[RF001] O APP através de um contador, limita o período de lances pela NFT ofertada no "Market auction";
+[RF002] O APP aceita lances somente com a criptomoeda Ethereum;
+[RF003] O APP aceita todos os arquivos de arte digital NFT;
+[RF004] Os lances podem atingir qualquer valor, dentro do prazo estipulado do leilão;
+[RF005] Todos os usuários devem obrigatoriamente depositar o Ethereum em sua carteira própria do APP;
+[RF006] Todas as artes digitais devem conter uma descrição breve de sua origem, inspiração, etc...;
+[RF007] Histórico de lances do leilão NFT.
+
+
+Requisitos Não Funcionais:
+
+[RNF001] O APP pode ser utilizado por qualquer pessoa, que tenha conhecimento em NFT;
+[RNF002] O APP gerenciado na plataforma EXPO;
+[RNF003] O APP deve ser desenvolvido no framework React Native.
